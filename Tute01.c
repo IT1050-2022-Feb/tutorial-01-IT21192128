@@ -10,13 +10,13 @@ int main() {
 
    printf("\nenter marks:");
 
-   printf"\nMarks 1:");
+   printf("\nMarks 1:");
    scanf("%f",mark1);
 
    printf("\nMark 2:");
    scanf("%f",mark2);
 
-   average=(f;oat) (mark1=mark2)/2;
+   average=(float) (mark1=mark2)/2;
    printf("\nAvg=%.1f",average);
 
   
